@@ -2,6 +2,9 @@
 
 poetry.lock
 
+# unpublished tutorials
+three_pt_shooting_trends/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

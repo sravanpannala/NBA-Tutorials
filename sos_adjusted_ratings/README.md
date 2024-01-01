@@ -1,6 +1,6 @@
-# How to Adjust NBA Team Rating for Strength of Schedule (SoS) Using an RAPM styled approach:
-Companion to my blog [Adjusting NBA Teams' Offensive and Defensive Ratings I: using Strength of Schedule](https://blog.sradjoker.cc/posts/nba-sosadj/)
-## Topics Covered:
+## How to Adjust NBA Team Rating for Strength of Schedule (SoS) Using an RAPM styled approach:
+[Companion blog article](https://blog.sradjoker.cc/posts/nba-sosadj/)
+### Topics Covered:
 1. Scraping Advanced Boxscores using `nba_api`
 2. Retrying request timeouts using `tenacity`
 3. Grouping and Aggregating data in `pandas`
