@@ -23,6 +23,9 @@ poetry install
 
 # Tutorials
 
-### [1. How to Adjust NBA Team Rating for Strength of Schedule (SoS) Using an RAPM styled approach](./sos_adjusted_ratings/how_to_adjust_nba_team_ratings_for_sos.ipynb)  
+### [1. How To: Adjust NBA Team Rating for Strength of Schedule (SoS) Using an RAPM styled approach](./sos_adjusted_ratings/how_to_adjust_nba_team_ratings_for_sos.ipynb)  
 [Companion blog article](https://blog.sradjoker.cc/posts/nba-sosadj/)
+
+### [2. How To: Analyze and Plot Three Point Shooting Trends](./three_pt_shooting_trends/plotting_three_pt_shooting_trends.ipynb)  
+[Companion blog article](https://blog.sradjoker.cc/posts/nba-3pt-winning/)
 

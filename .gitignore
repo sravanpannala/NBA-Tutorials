@@ -1,6 +1,6 @@
 # Custom
-
 poetry.lock
+three_pt_shooting_trends/data/*
 
 # unpublished tutorials
 
